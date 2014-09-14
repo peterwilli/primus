@@ -47,7 +47,7 @@
   "author": "Arnout Kazemier",
   "license": "MIT",
   "dependencies": {
-    "access-control": "0.0.x",
+    "access-control": "git+https://peterwilli@github.com/peterwilli/access-control.git",
     "create-server": "0.0.x",
     "diagnostics": "0.0.x",
     "eventemitter3": "0.1.x",
